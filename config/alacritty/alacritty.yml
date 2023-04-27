@@ -1,0 +1,15 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: JetBrainsMono Nerd Font
+
+  # Point size
+  size: 10.0
+
+shell:
+  program: /usr/bin/fish
+  args:
+    - --login
