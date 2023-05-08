@@ -40,7 +40,7 @@ theme.fg_minimize   = "#ffffff"
 
 
 -- bar
-theme.bar_height = 40
+theme.bar_height = 30
 
 --- tasklist
 theme.tasklist_plain_task_name = true
